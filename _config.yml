@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"#头像暂时不弄
   name             : "蓝色三明治"
   pronouns         : "Her" # exam: eshe/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : #"Red Brick University"
+  bio              : "个人介绍"
+  location         : "阿伦戴尔"
+  employer         : "安徽大学"
   uri              : # URL
-  email            : #"" 
+  email            : "暂时不弄" 
 
   # Academic websites
   academia         : # URL
@@ -38,10 +38,10 @@ author:
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
