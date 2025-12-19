@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "也许日后会放一些学术内容。。。敬请期待。"
+title: "也许日后想好放啥了就来放了。。。敬请期待。"
 author_profile: true
 redirect_from: 
   - /about/
