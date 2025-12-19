@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "bluesandwich"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "蓝色三明治"
+  pronouns         : "she"  
+  bio              : "打算放一些学术内容，可能"
   location         : "阿伦戴尔"
   employer         : "某个不知名大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "暂时不放@qq.com" 
 
   # Academic websites
   academia         : # URL
