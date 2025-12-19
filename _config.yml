@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "蓝色三明治"
   pronouns         : "♀"  
-  bio              : "打算放一些学术内容，可能"
+  bio              : #""
   location         : "阿伦戴尔"
   employer         : "某个不知名大学"
   uri              : # URL
