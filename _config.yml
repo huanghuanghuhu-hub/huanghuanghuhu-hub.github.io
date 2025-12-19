@@ -12,25 +12,25 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "蓝色三明治的个人主页"
 title_separator          : "-"
 name                     : &name "蓝色三明治"
-description              : &description "个人介绍"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "学术网站，应该吧？"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://github.com/huanghuanghuhu-hub/huanghuanghuhu-hub.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huanghuanghuhu-hub/huanghuanghuhu-hub.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"#头像暂时不弄
+  avatar           : "profile.png"
   name             : "蓝色三明治"
-  pronouns         : "Her" # exam: eshe/her"  
-  bio              : "个人介绍"
+  pronouns         : "she"  
+  bio              : "阿伦戴尔人"
   location         : "阿伦戴尔"
-  employer         : "安徽大学"
+  employer         : "某不知名学校"
   uri              : # URL
-  email            : "暂时不弄" 
+  email            : "应该放邮箱的但是我不想放@123.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "huanghuanghuhu-hub"
+  github           : "huanghuanghuhu-hubs"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -71,16 +71,16 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "恍恍惚惚"
+  steam            : # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
-  weibo            : "单推人"# Username
+  weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "秘密"# Username
+  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
