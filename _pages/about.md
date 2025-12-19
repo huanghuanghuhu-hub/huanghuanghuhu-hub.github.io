@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "也许日后会放一些学术内容。。。敬请期待。"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-这是恍恍惚惚的网站，但是暂时还没想好放什么。
+这是蓝色三明治的网站，但是暂时还没想好放什么。
